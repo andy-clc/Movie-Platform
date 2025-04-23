@@ -68,7 +68,7 @@ export default function Footer() {
                         <div className="row text-center">
                             <div className="col-md-8 mb-3 mb-md-0 mx-auto">
                                 <p style={{ textShadow: '0 1px 1px BLACK', fontWeight: '1000' }}>
-                                    版本{version} - {expireTime} &mdash; Copyright &copy; {new Date().getFullYear()} 版權所有 &mdash; All Rights Reserved by 一號房.
+                                    版本{version} - {expireTime} &mdash; Copyright &copy; {new Date().getFullYear()} 版權所有 &mdash; All Rights Reserved by Andy-CLC.
                                 </p>
                             </div>
                         </div>
